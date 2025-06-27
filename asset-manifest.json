@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fbla_data_website/static/css/main.06d6992d.css",
+    "main.js": "/fbla_data_website/static/js/main.73d3a3b0.js",
+    "static/js/453.1cc6931e.chunk.js": "/fbla_data_website/static/js/453.1cc6931e.chunk.js",
+    "index.html": "/fbla_data_website/index.html",
+    "main.06d6992d.css.map": "/fbla_data_website/static/css/main.06d6992d.css.map",
+    "main.73d3a3b0.js.map": "/fbla_data_website/static/js/main.73d3a3b0.js.map",
+    "453.1cc6931e.chunk.js.map": "/fbla_data_website/static/js/453.1cc6931e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d6992d.css",
+    "static/js/main.73d3a3b0.js"
+  ]
+}
