@@ -9,7 +9,7 @@ const Home: React.FC = () => {
       {/* Background Image with Subtle Blur/Overlay */}
       <div
         className="absolute inset-0 z-0 bg-cover bg-center"
-        style={{ backgroundImage: "url('/nyc-smog.png')" }}
+        style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/nyc-smog.png)` }}
       >
         <div className="absolute inset-0 bg-white/10 backdrop-blur-sm" />
       </div>
