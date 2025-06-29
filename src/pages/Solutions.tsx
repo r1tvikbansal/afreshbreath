@@ -20,7 +20,7 @@ const Solutions: React.FC = () => {
   return (
     <div className="min-h-screen bg-soft-white">
       <section className="bg-gradient-to-r from-forest-green to-moss-green text-white section-padding">
-        <div className="max-w-7xl mx-auto text-center">
+        <div className="max-w-4xl mx-auto text-center">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -37,7 +37,7 @@ const Solutions: React.FC = () => {
 
       {/* Solution Cards */}
       <section className="section-padding bg-white">
-        <div className="max-w-7xl mx-auto grid md:grid-cols-3 gap-8 mb-12">
+        <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8 mb-12">
           {/* N-95 Masks */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
