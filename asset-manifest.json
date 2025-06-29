@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/afreshbreath/static/css/main.06d6992d.css",
+    "main.css": "/afreshbreath/static/css/main.479db291.css",
     "main.js": "/afreshbreath/static/js/main.eb30b9a2.js",
     "static/js/453.7d606c83.chunk.js": "/afreshbreath/static/js/453.7d606c83.chunk.js",
     "index.html": "/afreshbreath/index.html",
-    "main.06d6992d.css.map": "/afreshbreath/static/css/main.06d6992d.css.map",
+    "main.479db291.css.map": "/afreshbreath/static/css/main.479db291.css.map",
     "main.eb30b9a2.js.map": "/afreshbreath/static/js/main.eb30b9a2.js.map",
     "453.7d606c83.chunk.js.map": "/afreshbreath/static/js/453.7d606c83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06d6992d.css",
+    "static/css/main.479db291.css",
     "static/js/main.eb30b9a2.js"
   ]
 }
