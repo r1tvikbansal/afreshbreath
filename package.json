@@ -1,8 +1,8 @@
 {
-  "name": "fbla_data_website",
+  "name": "afreshbreath",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ritvikbansal.github.io/fbla_data_website",
+  "homepage": "https://ritvikbansal.github.io/afreshbreath",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
