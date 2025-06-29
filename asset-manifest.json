@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fbla_data_website/static/css/main.06d6992d.css",
-    "main.js": "/fbla_data_website/static/js/main.fc5993a7.js",
-    "static/js/453.1cc6931e.chunk.js": "/fbla_data_website/static/js/453.1cc6931e.chunk.js",
-    "index.html": "/fbla_data_website/index.html",
-    "main.06d6992d.css.map": "/fbla_data_website/static/css/main.06d6992d.css.map",
-    "main.fc5993a7.js.map": "/fbla_data_website/static/js/main.fc5993a7.js.map",
-    "453.1cc6931e.chunk.js.map": "/fbla_data_website/static/js/453.1cc6931e.chunk.js.map"
+    "main.css": "/afreshbreath/static/css/main.06d6992d.css",
+    "main.js": "/afreshbreath/static/js/main.eb30b9a2.js",
+    "static/js/453.7d606c83.chunk.js": "/afreshbreath/static/js/453.7d606c83.chunk.js",
+    "index.html": "/afreshbreath/index.html",
+    "main.06d6992d.css.map": "/afreshbreath/static/css/main.06d6992d.css.map",
+    "main.eb30b9a2.js.map": "/afreshbreath/static/js/main.eb30b9a2.js.map",
+    "453.7d606c83.chunk.js.map": "/afreshbreath/static/js/453.7d606c83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06d6992d.css",
-    "static/js/main.fc5993a7.js"
+    "static/js/main.eb30b9a2.js"
   ]
 }
