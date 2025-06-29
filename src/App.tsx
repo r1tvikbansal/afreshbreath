@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Crisis from './pages/Crisis';
 import Health from './pages/Health';
 import TakeAction from './pages/TakeAction';
+import Solutions from './pages/Solutions';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/crisis" element={<Crisis />} />
             <Route path="/health" element={<Health />} />
+            <Route path="/solutions" element={<Solutions />} />
             <Route path="/take-action" element={<TakeAction />} />
           </Routes>
         </main>
